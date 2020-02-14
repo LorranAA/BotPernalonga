@@ -22,38 +22,38 @@ exports.run = (client,message,args) => {
         },
         "fields": [
           {
-            "name": "\n❌ **Domingo**",
+            "name": "\n✅ **Domingo**",
+            "value": "**13Hrs até 19Hrs**",
+            "inline": true
+          },
+          {
+            "name": "❌  **Segunda**",
             "value": "**~~Sem Live~~**",
             "inline": true
           },
           {
-            "name": "✅  **Segunda**",
-            "value": "**20Hrs até 00Hrs**",
-            "inline": true
-          },
-          {
             "name": "✅ **Terça**",
-            "value": "**20Hrs até 00Hrs**",
+            "value": "**18Hrs até 22Hrs**",
             "inline": true
           },
           {
             "name": "✅ **Quarta**",
-            "value": "**20Hrs até 00Hrs**",
+            "value": "18Hrs até 22Hrs**",
             "inline": true
           },
           {
             "name": "✅ **Quinta**",
-            "value": "**20Hrs até 00Hrs**",
+            "value": "18Hrs até 22Hrs**",
             "inline": true
           },
           {
             "name": "✅ **Sexta**",
-            "value": "**20Hrs até 00Hrs**",
+            "value": "18Hrs até 22Hrs**",
             "inline": true
           },
           {
             "name": "✅ **Sábado**",
-            "value": "**19Hrs até 00Hrs**",
+            "value": "16Hrs até 22Hrs**",
             "inline": true
           },
           {
