@@ -27,7 +27,7 @@ exports.run = (client,message,args) => {
             "inline": true
           },
           {
-            "name": "❌  **Segunda**",
+            "name": "❌  *Segunda**",
             "value": "**~~Sem Live~~**",
             "inline": true
           },
